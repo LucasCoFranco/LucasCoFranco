@@ -1,31 +1,23 @@
 <div align="center">
-  <img src="https://github.com/LucasCoFranco/LucasCoFranco/blob/main/BlueRectangle.png">
 </div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&duration=1500&pause=750&center=true&vCenter=true&multiline=true&width=642&height=130&lines=Ol%C3%A1+%2C+sejam+bem-vindos!;Meu+nome+%C3%A9+Lucas;e+este+%C3%A9+meu+perfil+no+GitHub!;%C2%AF%5C_(%E3%83%84)_%2F%C2%AF" align="center" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&duration=1500&pause=750&center=true&vCenter=true&multiline=true&color=E347F7&width=642&height=130&lines=Ol%C3%A1+%2C+sejam+bem-vindos!;Meu+nome+%C3%A9+Lucas;e+este+%C3%A9+meu+perfil+no+GitHub!;%C2%AF%5C_(%E3%83%84)_%2F%C2%AF" align="center" alt="Typing SVG" /></a>
 
-  <img src="https://i.pinimg.com/originals/4f/d0/c0/4fd0c049c173c9beb5a0101a84deb6f9.gif" min-width="200px" max-width="200px" width="200px" align="center" alt="Charizard">
+  <img src="https://i.pinimg.com/originals/4f/d0/c0/4fd0c049c173c9beb5a0101a84deb6f9.gif" min-width="200px" max-width="200px" width="200px" align="center" alt="Gengar">
 </div>
 
 <div align="center">
-  <img src="https://github.com/LucasCoFranco/LucasCoFranco/blob/main/BlueRectangle.png">
 </div>
 
 ##
   <a href="https://github.com/LucasCoFranco">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielHenriqueas&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasCoFranco&layout=compact&langs_count=16&theme=transparent"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasCoFranco&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasCoFranco&layout=compact&langs_count=16&theme=radical"/>
   
 <div style="display: inline_block">
  <h2> Skills 💻 </h2>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
 </div>
 
 <div style="display: inline_block">
@@ -36,13 +28,14 @@
 
 <div style="display: inline_block">
   <h2> Badges 🏅</h2>
-  <a href="https://www.credly.com/badges/e40fd90e-62c0-48dc-9206-ea06119343fe">
-  <img width="20%" height="20%"  src="https://images.credly.com/size/340x340/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png"/>
+  <a href="https://www.credly.com/badges/bff1daa9-d527-4d3e-ba68-9c8b5b6a4779/public_url">
+  <img width="20%" height="20%"  src="https://images.credly.com/size/340x340/images/054913b2-e271-49a2-a1a4-9bf1c1f9a404/CyberEssentials.png"/>
   
-  <a href="https://www.credly.com/badges/9ad06ed1-39e2-434c-b4d5-9dc43ce678fc">
-  <img width="20%" height="20%"  src="https://images.credly.com/size/340x340/images/f4ccdba9-dd65-4349-baad-8f05df116443/CCNASRWE__1_.png"/>
+   <h2> Certifications 🏆</h2>
+  <a href="https://www.credly.com/badges/2d1d9905-9dff-4da0-8109-c74de7a9b291/public_url">
+  <img width="20%" height="20%"  src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png"/>
 </div>
   
 ## Contatos ✉️
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielhenriqueas/)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-c-franco/)
 

@@ -34,6 +34,12 @@
    <h2> Certifications 🏆</h2>
   <a href="https://www.credly.com/badges/2d1d9905-9dff-4da0-8109-c74de7a9b291/public_url">
   <img width="20%" height="20%"  src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png"/>
+    
+  <a href="https://www.credly.com/badges/f5eea9c7-80fd-4c78-9cba-c46f68ef46d0/public_url">
+  <img width="20%" height="20%"  src="https://images.credly.com/size/340x340/images/2a6251f2-737b-4bf6-9190-d77570cc76fc/CERT-Fundamentals-Power-Platform.png">
+    
+  <a href="https://www.credly.com/badges/28b3cdbc-4f59-40f0-8262-e0ef64930f8c/public_url">
+  <img width="20%" height="20%"  src="https://images.credly.com/size/340x340/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png">
 </div>
   
 ## Contatos ✉️

@@ -24,6 +24,7 @@
  <h2> Formação Acadêmica 🎓 </h2>
  
  📌 Cursando Tecnólogo em Segurança da Informação - FATEC São Caetano do Sul "Antonio Russo" (conclusão em jul/2024)
+ 
  📌 Cursando Tecnico em Redes de computadores - Senai de Informática "Paulo Antonio Skaf" (conclusão em dez/2025)
 </div>
 

@@ -30,7 +30,7 @@
 
 <div style="display: inline_block">
   <h2> Badges 🏅</h2>
-  <a href="https://www.credly.com/badges/bff1daa9-d527-4d3e-ba68-9c8b5b6a4779/public_url">
+  <a href="https://www.credly.com/badges/bff1daa9-d527-4d3e-ba68-9c8b5b6a4779/public_url" target="_blank">
   <img width="20%" height="20%"  src="https://images.credly.com/size/340x340/images/054913b2-e271-49a2-a1a4-9bf1c1f9a404/CyberEssentials.png"/>
   
    <h2> Certifications 🏆</h2>

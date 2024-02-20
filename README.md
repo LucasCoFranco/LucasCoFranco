@@ -30,11 +30,11 @@
 
 <div style="display: inline_block">
   <h2> Badges 🏅</h2>
-  <a href="https://www.credly.com/badges/bff1daa9-d527-4d3e-ba68-9c8b5b6a4779/public_url" target="_blank"></a>
+  <a href="https://www.credly.com/badges/bff1daa9-d527-4d3e-ba68-9c8b5b6a4779/public_url">
   <img width="20%" height="20%"  src="https://images.credly.com/size/340x340/images/054913b2-e271-49a2-a1a4-9bf1c1f9a404/CyberEssentials.png"/>
   
    <h2> Certifications 🏆</h2>
-  <a href="https://www.credly.com/badges/2d1d9905-9dff-4da0-8109-c74de7a9b291/public_url">
+  <a href="https://www.credly.com/badges/2d1d9905-9dff-4da0-8109-c74de7a9b291/public_url" target="_blank">
   <img width="20%" height="20%"  src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png"/>
 
   <a href="https://www.credly.com/badges/4d5b1307-42d5-4d58-a7fb-8a2118705729/linked_in_profile?trk=public_profile_see-credential">

@@ -34,6 +34,9 @@
   <h2> Badges 🏅</h2>
   <a href="https://www.credly.com/badges/bff1daa9-d527-4d3e-ba68-9c8b5b6a4779/public_url">
   <img width="20%" height="20%"  src="https://images.credly.com/size/340x340/images/054913b2-e271-49a2-a1a4-9bf1c1f9a404/CyberEssentials.png"/>
+
+  <a href="https://www.credly.com/badges/604e16da-ee24-440b-b2c0-2952c213ee39/public_url">
+  <img width="20%" height="20%"  src="https://images.credly.com/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png"/>
   
    <h2> Certifications 🏆</h2>
   <a href="https://www.credly.com/badges/2d1d9905-9dff-4da0-8109-c74de7a9b291/public_url">

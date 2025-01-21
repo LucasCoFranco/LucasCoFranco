@@ -26,7 +26,7 @@
   <img align="center" alt="JavaScript" height="30" width="40" src="https://static.vecteezy.com/system/resources/previews/027/127/463/non_2x/javascript-logo-javascript-icon-transparent-free-png.png">
   <img align="center" alt="HandleBars" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/handlebars.svg">
   <img align="center" alt="AWS" height="30" width="40" src="https://www.opentext.com/assets/images/partners/opentext-aws-logo-cover-416x274.png">
-  <img align="center" alt="Azure" height="30" width="40" src="[https://logospng.org/wp-content/uploads/amazon-web-services.png](https://banner2.cleanpng.com/20180802/wxy/kisspng-microsoft-azure-cloud-computing-microsoft-corporat-pricing-insight-amp-analytics-microsoft-azure-5b62c6dd915251.7076960515332000935953.jpg)">
+  <img align="center" alt="Azure" height="30" width="40" src="https://logospng.org/wp-content/uploads/amazon-web-services.png](https://banner2.cleanpng.com/20180802/wxy/kisspng-microsoft-azure-cloud-computing-microsoft-corporat-pricing-insight-amp-analytics-microsoft-azure-5b62c6dd915251.7076960515332000935953.jpg)">
 </div>
 
 <div style="display: inline_block">

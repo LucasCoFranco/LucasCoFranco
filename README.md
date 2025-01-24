@@ -44,7 +44,13 @@
 
   <a href="https://www.credly.com/badges/604e16da-ee24-440b-b2c0-2952c213ee39/public_url">
   <img width="20%" height="20%"  src="https://images.credly.com/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png"/>
-  
+
+  <a href="https://www.credly.com/badges/39e1c8b8-8833-42ac-a016-098782cf525b/public_url">
+  <img width="20%" height="20%"  src="https://images.credly.com/size/220x220/images/f4ccdba9-dd65-4349-baad-8f05df116443/CCNASRWE__1_.png"/>
+
+  <a href="https://www.credly.com/badges/4162022d-f23e-486b-bce9-6db81c623236/public_url">
+  <img width="20%" height="20%"  src="https://images.credly.com/size/220x220/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png"/>
+    
    <h2> Certifications 🏆</h2>
   <a href="https://www.credly.com/badges/2d1d9905-9dff-4da0-8109-c74de7a9b291/public_url">
   <img width="20%" height="20%"  src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png"/>

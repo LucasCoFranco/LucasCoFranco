@@ -8,6 +8,10 @@
 </div>
 
 <div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&pause=4000&color=E347F7&width=435&lines=CyberSecurity+%7C+SysAdmin" align="center" alt="Typing SVG" /> </a>
+</div>
+
+<div align="center">
 </div>
 
 ##

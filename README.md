@@ -13,7 +13,6 @@
 ##
 <div align="center">
   <a href="https://github.com/LucasCoFranco">
-  <img height="175em" src="http://github-readme-streak-stats.herokuapp.com/?user=LucasCoFranco&amp;theme=transparent">
   <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasCoFranco&layout=compact&langs_count=16&theme=transparent"/>
   </div>
 

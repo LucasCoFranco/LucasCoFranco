@@ -22,15 +22,13 @@
 
 <div style="display: inline_block">
  <h2> Skills 💻 </h2>
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png">
-  <img align="center" alt="CSS" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://static.vecteezy.com/system/resources/previews/027/127/463/non_2x/javascript-logo-javascript-icon-transparent-free-png.png">
-  <img align="center" alt="HandleBars" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/handlebars.svg">
-  <img align="center" alt="AWS" height="30" width="40" src="https://download.logo.wine/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.png">
-  <img align="center" alt="Azure" height="30" width="40" src="https://www.northware.mx/wp-content/uploads/2022/09/northware-microsoft-azure-logo.png">
+  <p align="center">
+  <img src="https://skillicons.dev/icons?i=arduino,aws,azure,bash,c,css,html,debian,docker,gcp,git,github,gmail,grafana,js,java,kali,linux,mint,mysql,nginx,nodejs,npm,ps,postgres,postman,powershell,py,sqlite,ubuntu,vscode,windows,wordpress">
 </div>
+
+
+
+
 
 <div style="display: inline_block">
  <h2> Formação Acadêmica 🎓 </h2>

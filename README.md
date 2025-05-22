@@ -21,7 +21,7 @@
   </div>
 
 <div>
-  <img src="https://komarev.com/ghpvc/?username=LucasCoFranco">
+  <img src="https://komarev.com/ghpvc/?username=LucasCoFranco&color=blueviolet">
 </div>
 
 <div style="display: inline_block">

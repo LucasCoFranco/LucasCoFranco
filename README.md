@@ -65,7 +65,13 @@
   <a href="https://www.credly.com/badges/f5eea9c7-80fd-4c78-9cba-c46f68ef46d0/public_url">
   <img width="19%" height="19%"  src="https://images.credly.com/size/340x340/images/2a6251f2-737b-4bf6-9190-d77570cc76fc/CERT-Fundamentals-Power-Platform.png">
 </div>
-  
+
+## Certificações
+
+| Certificação | Nome |
+| --- | --- |
+| ![CCNA ITN](https://img.shields.io/badge/CISCO_Introduction_To_Networks-t?style=plastic&logo=cisco&logoColor=white&labelColor=black&color=%23A020F0&link=https%3A%2F%2Fwww.credly.com%2Fbadges%2F604e16da-ee24-440b-b2c0-2952c213ee39%2Fpublic_url) | Cisco NetAcademy Introduction to Networks |
+| ![AWS_CF](https://img.shields.io/badge/_-AWS_Academy_Cloud_Foundations-t?style=plastic&logo=amazonwebservices&logoColor=white&labelColor=black&color=%23A020F0&link=https%3A%2F%2Fwww.credly.com%2Fbadges%2F4162022d-f23e-486b-bce9-6db81c623236%2Fpublic_url) | AWS Cloud Foundations |
 ## Contatos ✉️
   [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucascofranco/)
 

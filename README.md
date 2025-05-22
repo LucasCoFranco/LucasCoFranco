@@ -20,6 +20,10 @@
   <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasCoFranco&layout=compact&langs_count=16&theme=transparent"/>
   </div>
 
+<div>
+  <img src="https://komarev.com/ghpvc/?username=LucasCoFranco">
+</div>
+
 <div style="display: inline_block">
  <h2> Skills 💻 </h2>
   <p align="center">
@@ -66,7 +70,6 @@
   <img width="19%" height="19%"  src="https://images.credly.com/size/340x340/images/2a6251f2-737b-4bf6-9190-d77570cc76fc/CERT-Fundamentals-Power-Platform.png">
 </div>
 
-| ![CISCO_CE](
 ## Contatos ✉️
   [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucascofranco/)
 

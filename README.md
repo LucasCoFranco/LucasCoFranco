@@ -27,7 +27,7 @@
 <div style="display: inline_block">
  <h2> Skills 💻 </h2>
   <p align="center">
-  <img src="https://skillicons.dev/icons?i=arduino,aws,azure,bash,c,css,html,debian,docker,gcp,git,github,gmail,grafana,js,java,kali,linux,mint,mysql,nginx,nodejs,npm,ps,postgres,postman,powershell,py,sqlite,ubuntu,vscode,windows,wordpress">
+  <img src="https://skillicons.dev/icons?i=arduino,aws,azure,bash,css,html,debian,docker,gcp,git,github,grafana,js,java,kali,linux,mysql,nginx,nodejs,postman,powershell,py,sqlite,ubuntu,vscode,windows">
 </div>
 
 
